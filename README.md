@@ -34,7 +34,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/syedmohammadaquib/INTERVIEWX/actions"><img src="https://img.shields.io/github/workflow/status/syedmohammadaquib/INTERVIEWX/CI?label=build&logo=github&color=blue" alt="build status"></a>
+  <a href="https://github.com/AyushKumar101-code/INTERVIEWX/actions"><img src="https://img.shields.io/github/workflow/status/syedmohammadaquib/INTERVIEWX/CI?label=build&logo=github&color=blue" alt="build status"></a>
   <img src="https://img.shields.io/github/issues/syedmohammadaquib/INTERVIEWX?color=orange" alt="issues">
   <img src="https://img.shields.io/github/license/syedmohammadaquib/INTERVIEWX?color=green" alt="license">
   <img src="https://img.shields.io/badge/stack-Modern--Web-purple" alt="tech stack">
