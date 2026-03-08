@@ -186,7 +186,7 @@ This repository is released under the MIT License. See LICENSE.md for details.
 
 Contact
 -------
-Created by advayanand — say hi at https://github.com/advay77/
+Created by ayush kumar — say hi at https://github.com/AyushKumar101-code
 If you'd like, I can:
 - tailor this README to match the exact directory layout / tech choices in your repo,
 - generate hero images / GIFs given screenshots,
