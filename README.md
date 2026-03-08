@@ -101,7 +101,7 @@ Quick start
 -----------
 1. Clone the repo
 ```bash
-git clone https://github.com/syedmohammadaquib/INTERVIEWX.git
+git clone https://github.com/AyushKumar101-code
 cd INTERVIEWX
 ```
 
