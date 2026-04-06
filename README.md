@@ -1,7 +1,7 @@
 # VOCALX-A
 <!--
   Vibrant, animated README for INTERVIEWX.
-  Replace placeholder images/assets (assets/demo.gif, assets/screenshot-1.png) with real files from your repo.
+  interchange placeholder images/assets (assets/demo.gif, assets/screenshot-1.png) with real files from your repo.
 -->
 
 <!-- Animated SVG hero (renders on GitHub) -->
